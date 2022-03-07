@@ -1,0 +1,3 @@
+- 👋 Ola eu sou Douglas
+- 👀 Estou começando no mundo da programação então logo isso aqui vai ficar uma loucura.
+- 
